@@ -1,0 +1,817 @@
+[
+    {
+        "location_name": "Brower Commons",
+        "date": 1552155164639,
+        "meals": [
+            {
+                "meal_name": "Breakfast",
+                "meal_avail": false
+            },
+            {
+                "meal_name": "Lunch",
+                "meal_avail": true,
+                "genres": [
+                    {
+                        "genre_name": "Breakfast Meats",
+                        "items": [
+                            "Grilled Turkey Sausage Links",
+                            "Pork Sausage Patties Breakfast",
+                            "Vegetarian Breakfast Patties"
+                        ]
+                    },
+                    {
+                        "genre_name": "Breakfast Entrees",
+                        "items": [
+                            "Banana Pancakes",
+                            "Belgian Waffles",
+                            "Liquid Egg Cholesterol Free",
+                            "Red Velvet Waffle",
+                            "Scrambled Eggs",
+                            "Vegetarian Breakfast Patties"
+                        ]
+                    },
+                    {
+                        "genre_name": "Breakfast Bakery",
+                        "items": [
+                            "Assorted Bagels",
+                            "Assted. Dunkin Donuts",
+                            "Plain Bagels"
+                        ]
+                    },
+                    {
+                        "genre_name": "Breakfast Misc",
+                        "items": [
+                            "Pancake Syrup"
+                        ]
+                    },
+                    {
+                        "genre_name": "Salad Bar",
+                        "items": [
+                            "Grilled Chicken Breast 4Oz"
+                        ]
+                    },
+                    {
+                        "genre_name": "Soups",
+                        "items": [
+                            "Cream Of Tomato Rice Soup"
+                        ]
+                    },
+                    {
+                        "genre_name": "Entrees",
+                        "items": [
+                            "Aspar & Sundriedtomato Quiche",
+                            "Breaded Chicken Patty",
+                            "Oatmeal",
+                            "Vegan Grits Hot Cereal"
+                        ]
+                    },
+                    {
+                        "genre_name": "Starch & Potatoes",
+                        "items": [
+                            "Hash Brown Potatoes"
+                        ]
+                    },
+                    {
+                        "genre_name": "Veggies",
+                        "items": [
+                            "Cauliflower Fried Rice"
+                        ]
+                    },
+                    {
+                        "genre_name": "Accompaniments",
+                        "items": [
+                            "Chopped Red & Green Peppers",
+                            "Sausage Crumbles",
+                            "Shredded Cheddar Cheese",
+                            "Shredded Mozzarella Cheese",
+                            "Sliced Bacon",
+                            "Sliced Mushrooms",
+                            "Small Diced Ham"
+                        ]
+                    },
+                    {
+                        "genre_name": "Cook To Order Bar",
+                        "items": [
+                            "Diced Tomatoes",
+                            "Diced Onions",
+                            "Egg Mix Liquid And Whole",
+                            "Liquid Egg Cholesterol Free",
+                            "Omelets Made To Order",
+                            "Shred Monterey Jack Cheese"
+                        ]
+                    },
+                    {
+                        "genre_name": "Pizza/ Pasta",
+                        "items": [
+                            "Buffalo Chicken Pizza",
+                            "Garlic Bread Sticks",
+                            "Pepperoni Cheese Pizza Thin",
+                            "Pizza Zucchini And Squash",
+                            "Round Cheese Pizza Large"
+                        ]
+                    }
+                ]
+            },
+            {
+                "meal_name": "Dinner",
+                "meal_avail": true,
+                "genres": [
+                    {
+                        "genre_name": "Entrees",
+                        "items": [
+                            "Cajun Style Chicken Thigh",
+                            "London Broil",
+                            "Mixed Grains With Herbs",
+                            "Sundried Tomato Ravioli",
+                            "Swordfish Escovitch"
+                        ]
+                    },
+                    {
+                        "genre_name": "Sauces & Gravies",
+                        "items": [
+                            "Au Jus",
+                            "Sundired Tomato Aioli"
+                        ]
+                    },
+                    {
+                        "genre_name": "Starch & Potatoes",
+                        "items": [
+                            "Vegan Wheatberry W/ Kale & Cranberry"
+                        ]
+                    },
+                    {
+                        "genre_name": "Veggies",
+                        "items": [
+                            "Fresh Broccoli Buds",
+                            "Leaf Spinach"
+                        ]
+                    },
+                    {
+                        "genre_name": "Desserts",
+                        "items": [
+                            "Apple Spice Sheet Cake With Caramel Icing"
+                        ]
+                    },
+                    {
+                        "genre_name": "Bakery Misc",
+                        "items": [
+                            "Steak And Brew Solid"
+                        ]
+                    },
+                    {
+                        "genre_name": "Cook To Order Bar",
+                        "items": [
+                            "Baked Brown Rice",
+                            "Beef Strips For Stir Fry",
+                            "Diced Tofu",
+                            "Fresh Chicken Strips Raw",
+                            "General Tso Sauce",
+                            "Hunan Sauce",
+                            "Large Broken Pdi Shrimp",
+                            "Lo Mein",
+                            "Pasta Vegetable Side",
+                            "Soy Bragg",
+                            "Steamed White Rice",
+                            "Teriyaki Sauce",
+                            "Teriyaki Sauce Glaze"
+                        ]
+                    }
+                ]
+            },
+            {
+                "meal_name": "Knight Room",
+                "meal_avail": false
+            },
+            {
+                "meal_name": "Late Knight",
+                "meal_avail": false
+            }
+        ]
+    },
+    {
+        "location_name": "Busch Dining Hall",
+        "date": 1552155164639,
+        "meals": [
+            {
+                "meal_name": "Breakfast",
+                "meal_avail": false
+            },
+            {
+                "meal_name": "Lunch",
+                "meal_avail": true,
+                "genres": [
+                    {
+                        "genre_name": "Breakfast Meats",
+                        "items": [
+                            "Grilled Turkey Sausage Links",
+                            "Sliced Bacon",
+                            "Vegetarian Breakfast Patties"
+                        ]
+                    },
+                    {
+                        "genre_name": "Breakfast Entrees",
+                        "items": [
+                            "Belgian Waffles",
+                            "Broccoli Frittata",
+                            "Hard Boiled Eggs",
+                            "Oatmeal",
+                            "Scrambled Eggs"
+                        ]
+                    },
+                    {
+                        "genre_name": "Breakfast Bakery",
+                        "items": [
+                            "Assted. Dunkin Donuts",
+                            "Bagel Weekend Assortment",
+                            "Pancake"
+                        ]
+                    },
+                    {
+                        "genre_name": "Breakfast Misc",
+                        "items": [
+                            "Cantaloupe Melon",
+                            "Grapefruit Halves Red",
+                            "Red Seedless Grapes",
+                            "Strawberries"
+                        ]
+                    },
+                    {
+                        "genre_name": "Salad Bar",
+                        "items": [
+                            "Baby Spinach",
+                            "Broccoli Buds Op",
+                            "Cold Marinated Italian Veg.",
+                            "Cucumbers",
+                            "Diced Tofu",
+                            "Macaroni Salad",
+                            "Marinated Olives With Rosemary Et Al",
+                            "Moc Root Vegetable Slaw",
+                            "Salad Mesculen Greens",
+                            "Salad Pasta Cobb",
+                            "Tex-Mex Quinoa Salad",
+                            "Tomato Wedges"
+                        ]
+                    },
+                    {
+                        "genre_name": "Soups",
+                        "items": [
+                            "Vegan Black Bean Soup"
+                        ]
+                    },
+                    {
+                        "genre_name": "Deli Bar Entree",
+                        "items": [
+                            "Deli Meat",
+                            "Grilled Chicken Montreal Seasoning Busch",
+                            "Tuna Salad"
+                        ]
+                    },
+                    {
+                        "genre_name": "Entrees",
+                        "items": [
+                            "Country Fried Fish",
+                            "Hamburger Quarter Pounder"
+                        ]
+                    },
+                    {
+                        "genre_name": "Starch & Potatoes",
+                        "items": [
+                            "Home Fries"
+                        ]
+                    },
+                    {
+                        "genre_name": "Veggies",
+                        "items": [
+                            "Whole Green Beans"
+                        ]
+                    },
+                    {
+                        "genre_name": "Bakery Misc",
+                        "items": [
+                            "Big Martys Hamburger Bun"
+                        ]
+                    },
+                    {
+                        "genre_name": "Cook To Order Bar",
+                        "items": [
+                            "Omelets Cook To Order"
+                        ]
+                    },
+                    {
+                        "genre_name": "Pizza/ Pasta",
+                        "items": [
+                            "3 Cheese Penne",
+                            "Alfredo Sauce",
+                            "Chunky Tomato Basil Marinara Sauce",
+                            "Orecchiette Pasta",
+                            "Round Cheese Pizza Busch",
+                            "Turkey Pepperoni Pizza",
+                            "Whole Wheat Penne"
+                        ]
+                    }
+                ]
+            },
+            {
+                "meal_name": "Dinner",
+                "meal_avail": true,
+                "genres": [
+                    {
+                        "genre_name": "Salad Bar",
+                        "items": [
+                            "Baby Spinach",
+                            "Broccoli Buds Op",
+                            "Cold Marinated Italian Veg.",
+                            "Cucumbers",
+                            "Diced Tofu",
+                            "Macaroni Salad",
+                            "Marinated Olives With Rosemary Et Al",
+                            "Moc Root Vegetable Slaw",
+                            "Salad Mesculen Greens",
+                            "Salad Pasta Cobb",
+                            "Tex-Mex Quinoa Salad",
+                            "Tomato Wedges"
+                        ]
+                    },
+                    {
+                        "genre_name": "Soups",
+                        "items": [
+                            "Vegan Black Bean Soup"
+                        ]
+                    },
+                    {
+                        "genre_name": "Deli Bar Entree",
+                        "items": [
+                            "Deli Meat",
+                            "Grilled Chicken Montreal Seasoning Busch",
+                            "Tuna Salad",
+                            "Vegan Fried Nuggets"
+                        ]
+                    },
+                    {
+                        "genre_name": "Entrees",
+                        "items": [
+                            "Baked Fdl Ham",
+                            "Chicken Marsala",
+                            "Fried Shrimp"
+                        ]
+                    },
+                    {
+                        "genre_name": "Sauces & Gravies",
+                        "items": [
+                            "Fresh Cranberry Apple Compote"
+                        ]
+                    },
+                    {
+                        "genre_name": "Starch & Potatoes",
+                        "items": [
+                            "Baked White Rice W/ Parsley"
+                        ]
+                    },
+                    {
+                        "genre_name": "Veggies",
+                        "items": [
+                            "Broccoli Florets",
+                            "Fresh Cauliflower"
+                        ]
+                    },
+                    {
+                        "genre_name": "Desserts",
+                        "items": [
+                            "Apple Spice Sheet Cake With Caramel Icing"
+                        ]
+                    },
+                    {
+                        "genre_name": "Pizza/ Pasta",
+                        "items": [
+                            "3 Cheese Penne",
+                            "Alfredo Sauce",
+                            "Chunky Tomato Basil Marinara Sauce",
+                            "Orecchiette Pasta",
+                            "Penne Pasta",
+                            "Round Cheese Pizza Busch",
+                            "Turkey Pepperoni Pizza",
+                            "Whole Wheat Penne"
+                        ]
+                    }
+                ]
+            },
+            {
+                "meal_name": "Knight Room",
+                "meal_avail": false
+            },
+            {
+                "meal_name": "Late Knight",
+                "meal_avail": false
+            }
+        ]
+    },
+    {
+        "location_name": "Livingston Dining Commons",
+        "date": 1552155164639,
+        "meals": [
+            {
+                "meal_name": "Breakfast",
+                "meal_avail": false
+            },
+            {
+                "meal_name": "Lunch",
+                "meal_avail": true,
+                "genres": [
+                    {
+                        "genre_name": "Breakfast Meats",
+                        "items": [
+                            "Pork Sausage Links",
+                            "Vegetarian Breakfast Patties"
+                        ]
+                    },
+                    {
+                        "genre_name": "Breakfast Entrees",
+                        "items": [
+                            "Belgian Waffles",
+                            "Hard Boiled Eggs",
+                            "Onion And Potato Frittata",
+                            "Pancake",
+                            "Scrambled Eggs"
+                        ]
+                    },
+                    {
+                        "genre_name": "Breakfast Bakery",
+                        "items": [
+                            "Assted. Dunkin Donuts"
+                        ]
+                    },
+                    {
+                        "genre_name": "Breakfast Misc",
+                        "items": [
+                            "Crispy Cube Potatoes",
+                            "Oatmeal"
+                        ]
+                    },
+                    {
+                        "genre_name": "Salad Bar",
+                        "items": [
+                            "Broccoli Buds Op",
+                            "Cucumbers",
+                            "Diced Tofu",
+                            "Lettuce",
+                            "Tomato Wedges",
+                            "Tossed Salad"
+                        ]
+                    },
+                    {
+                        "genre_name": "Soups",
+                        "items": [
+                            "Creamy Broccoli White Bean Soup"
+                        ]
+                    },
+                    {
+                        "genre_name": "Entrees",
+                        "items": [
+                            "Baked Potatoes",
+                            "Country Fried Fish",
+                            "Moc Shitake Quinoa",
+                            "Rotisserie Vegetables",
+                            "Veal And Peppers"
+                        ]
+                    },
+                    {
+                        "genre_name": "Desserts",
+                        "items": [
+                            "Vegan Orzo W/ Vegetables Soup"
+                        ]
+                    },
+                    {
+                        "genre_name": "Pub",
+                        "items": [
+                            "Grilled Hot Dogs",
+                            "Potato Hot Dog Roll",
+                            "Pub Burger",
+                            "Pub Ingredients",
+                            "Turkey Burgers",
+                            "Vegetable Burger"
+                        ]
+                    },
+                    {
+                        "genre_name": "Cook To Order Bar",
+                        "items": [
+                            "Omelets Made To Order"
+                        ]
+                    },
+                    {
+                        "genre_name": "Wok/ Mongolian Grill",
+                        "items": [
+                            "Baked Brown Rice",
+                            "Baked White Rice",
+                            "Beef W/ Snow Peas",
+                            "Fresh Broccoli Rabe",
+                            "Fresh Green Beans",
+                            "General Tso Chicken",
+                            "Mongolian Sides"
+                        ]
+                    },
+                    {
+                        "genre_name": "Pizza/ Pasta",
+                        "items": [
+                            "3 Cheese Penne",
+                            "Hand Tossed Cheese Pizza",
+                            "Hand Tossed Pepperoni Pizza",
+                            "Hand Tossed White Pizza",
+                            "Meat Sauce",
+                            "Orecchiette Pasta",
+                            "Penne Pasta",
+                            "Plain Tomato Sauce"
+                        ]
+                    }
+                ]
+            },
+            {
+                "meal_name": "Dinner",
+                "meal_avail": true,
+                "genres": [
+                    {
+                        "genre_name": "Salad Bar",
+                        "items": [
+                            "Broccoli Buds Op",
+                            "Cucumbers",
+                            "Diced Tofu",
+                            "Lettuce",
+                            "Tomato Wedges",
+                            "Tossed Salad"
+                        ]
+                    },
+                    {
+                        "genre_name": "Soups",
+                        "items": [
+                            "Creamy Broccoli White Bean Soup"
+                        ]
+                    },
+                    {
+                        "genre_name": "Deli Bar Entree",
+                        "items": [
+                            "Cole Slaw Salad"
+                        ]
+                    },
+                    {
+                        "genre_name": "Entrees",
+                        "items": [
+                            "Basmati Rice",
+                            "Beef Burgundy",
+                            "Chipolte Honey Glazed Chicken",
+                            "Rotisserie Vegetables",
+                            "Samosa"
+                        ]
+                    },
+                    {
+                        "genre_name": "Desserts",
+                        "items": [
+                            "Apple Spice Sheet Cake With Caramel Icing"
+                        ]
+                    },
+                    {
+                        "genre_name": "Bakery Misc",
+                        "items": [
+                            "Steak And Brew Solid"
+                        ]
+                    },
+                    {
+                        "genre_name": "Wok/ Mongolian Grill",
+                        "items": [
+                            "Baked Brown Rice",
+                            "Baked White Rice",
+                            "Beef W/ Snow Peas",
+                            "Fresh Broccoli Rabe",
+                            "General Tso Chicken",
+                            "Mongolian Sides"
+                        ]
+                    },
+                    {
+                        "genre_name": "Pizza/ Pasta",
+                        "items": [
+                            "3 Cheese Penne",
+                            "Hand Tossed Cheese Pizza",
+                            "Hand Tossed Pepperoni Pizza",
+                            "Hand Tossed White Pizza",
+                            "Meat Sauce",
+                            "Orecchiette Pasta",
+                            "Plain Tomato Sauce"
+                        ]
+                    }
+                ]
+            },
+            {
+                "meal_name": "Knight Room",
+                "meal_avail": false
+            },
+            {
+                "meal_name": "Late Knight",
+                "meal_avail": false
+            }
+        ]
+    },
+    {
+        "location_name": "Neilson Dining Hall",
+        "date": 1552155164639,
+        "meals": [
+            {
+                "meal_name": "Breakfast",
+                "meal_avail": false
+            },
+            {
+                "meal_name": "Lunch",
+                "meal_avail": true,
+                "genres": [
+                    {
+                        "genre_name": "Breakfast Meats",
+                        "items": [
+                            "Turkey Bacon",
+                            "Vegetarian Breakfast Patties"
+                        ]
+                    },
+                    {
+                        "genre_name": "Breakfast Entrees",
+                        "items": [
+                            "Broccoli Quiche",
+                            "Hard Boiled Eggs",
+                            "Oatmeal",
+                            "Pancake",
+                            "Scrambled Eggs"
+                        ]
+                    },
+                    {
+                        "genre_name": "Breakfast Bakery",
+                        "items": [
+                            "Assted. Dunkin Donuts",
+                            "Bagel Weekend Assortment"
+                        ]
+                    },
+                    {
+                        "genre_name": "Salad Bar",
+                        "items": [
+                            "Broccoli Buds Op",
+                            "Cucumbers",
+                            "Lettuce",
+                            "Tomato Wedges"
+                        ]
+                    },
+                    {
+                        "genre_name": "Soups",
+                        "items": [
+                            "Vegan Scarlet Bean Soup"
+                        ]
+                    },
+                    {
+                        "genre_name": "Deli Bar Entree",
+                        "items": [
+                            "12\" Hoagie Roll",
+                            "Rotisserie Lemon Garlic Chicken",
+                            "Tuna Salad"
+                        ]
+                    },
+                    {
+                        "genre_name": "Entrees",
+                        "items": [
+                            "Beef Tamale",
+                            "Fried Chicken Patty"
+                        ]
+                    },
+                    {
+                        "genre_name": "Starch & Potatoes",
+                        "items": [
+                            "Spicy Diced Potatoes"
+                        ]
+                    },
+                    {
+                        "genre_name": "Veggies",
+                        "items": [
+                            "Fresh Green Beans"
+                        ]
+                    },
+                    {
+                        "genre_name": "Bakery Misc",
+                        "items": [
+                            "Hamburger Bun 4\""
+                        ]
+                    },
+                    {
+                        "genre_name": "Cook To Order Bar",
+                        "items": [
+                            "Omelets Made To Order"
+                        ]
+                    },
+                    {
+                        "genre_name": "Wok/ Mongolian Grill",
+                        "items": [
+                            "Chicken With Garlic Sauce",
+                            "Hunan Beef",
+                            "Steamed White Rice",
+                            "Vegan Sesame Spinach W/ Cashew",
+                            "Vegetable Sukiyaki"
+                        ]
+                    },
+                    {
+                        "genre_name": "Pizza/ Pasta",
+                        "items": [
+                            "3 Cheese Penne",
+                            "Alfredo Sauce",
+                            "Marinara Sauce",
+                            "Orecchiette Pasta",
+                            "Penne Pasta Ww",
+                            "Round Cheese Pizza Large",
+                            "Round Pepperoni Cheese Pizza"
+                        ]
+                    }
+                ]
+            },
+            {
+                "meal_name": "Dinner",
+                "meal_avail": true,
+                "genres": [
+                    {
+                        "genre_name": "Salad Bar",
+                        "items": [
+                            "Broccoli Buds Op",
+                            "Cucumbers",
+                            "Tomato Wedges"
+                        ]
+                    },
+                    {
+                        "genre_name": "Soups",
+                        "items": [
+                            "Vegan Scarlet Bean Soup"
+                        ]
+                    },
+                    {
+                        "genre_name": "Deli Bar Entree",
+                        "items": [
+                            "Rotisserie Lemon Garlic Chicken",
+                            "Tuna Salad"
+                        ]
+                    },
+                    {
+                        "genre_name": "Entrees",
+                        "items": [
+                            "Chicken Fingers",
+                            "Swedish Meatballs",
+                            "Tortilla Crusted Tilapia"
+                        ]
+                    },
+                    {
+                        "genre_name": "Starch & Potatoes",
+                        "items": [
+                            "Potato Yukon Gold Herb Roasted",
+                            "Wide Noodles"
+                        ]
+                    },
+                    {
+                        "genre_name": "Veggies",
+                        "items": [
+                            "Broccoli Florets"
+                        ]
+                    },
+                    {
+                        "genre_name": "Desserts",
+                        "items": [
+                            "Apple Spice Sheet Cake With Caramel Icing"
+                        ]
+                    },
+                    {
+                        "genre_name": "Wok/ Mongolian Grill",
+                        "items": [
+                            "Chicken With Garlic Sauce",
+                            "Hunan Beef",
+                            "Steamed White Rice",
+                            "Vegan Sesame Spinach W/ Cashew",
+                            "Vegetable Sukiyaki"
+                        ]
+                    },
+                    {
+                        "genre_name": "Pizza/ Pasta",
+                        "items": [
+                            "3 Cheese Penne",
+                            "Alfredo Sauce",
+                            "Marinara Sauce",
+                            "Orecchiette Pasta",
+                            "Penne Pasta Ww",
+                            "Round Cheese Pizza Large",
+                            "Round Pepperoni Cheese Pizza"
+                        ]
+                    },
+                    {
+                        "genre_name": "Vegetarian",
+                        "items": [
+                            "Beans Bourguignonne"
+                        ]
+                    }
+                ]
+            },
+            {
+                "meal_name": "Knight Room",
+                "meal_avail": false
+            },
+            {
+                "meal_name": "Late Knight",
+                "meal_avail": false
+            }
+        ]
+    }
+]
